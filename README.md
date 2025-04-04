@@ -26,4 +26,4 @@ Como rodar o projeto localmente
 - docker-compose up --build
 - Acessar http://localhost:8080
 
-*Espero que seu computador seja melhor que o da faculdade, 4 min pra buildar.
+*Espero que seu computador seja melhor que o da faculdade; 4 min pra buildar.
